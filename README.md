@@ -13,7 +13,7 @@ This project is a simple CLI (Command Line Interface) application built with Go 
 
 Before running this application, ensure you have the following installed:
 
-- [Go](https://golang.org/dl/) (version 1.16 or higher)
+- [Go](https://golang.org/dl/) (version 1.18 or higher)
 - An [OpenAI API Key](https://platform.openai.com/account/api-keys)
 - Access to the [go-openai](https://github.com/sashabaranov/go-openai) package
 
